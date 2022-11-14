@@ -1,5 +1,5 @@
 // Any random string, must match SANITY_PREVIEW_SECRET in the Next.js .env.local file
-const previewSecret = 'sk5nbekTGsBdlroyOVxCozaLgttmT8l4zhzf8XNaQfix96HYtyWg7bJ5vYqgcdC3eVQpRDgpHGNEsDM4Ar6lZnplmA227GVmMKIvuOFOeSydIeh7mrePnZDBj0hqFLJFsh7Fto3RxZlMAGd7jBFa22rZ5pNSiOPSVkobxcdAsQmP3KuaFWTD'
+const previewSecret = process.env.SANITY_STUDIO_API_KEY
 
 // Replace `remoteUrl` with your deployed Next.js site
 //const remoteUrl = `https://your-nextjs-site.com`
