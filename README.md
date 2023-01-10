@@ -1,4 +1,4 @@
-## Nextjs e-ccommerce website builder (CMS)
+## Nextjs e-commerce website builder (CMS)
 
 Sanity Content Studio is an open source real-time content editing environment.
 
